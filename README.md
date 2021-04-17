@@ -1,2 +1,2 @@
 # console-helper
-Module to assist in developing console based applications
+Module to assist in developing PHP based console applications
