@@ -1,0 +1,8 @@
+{
+    "description": "Console helper for PHP",
+    "autoload": {
+        "psr-4": {
+                "Utils\\ConsoleTools\\": "core/"
+        }
+    }
+}
