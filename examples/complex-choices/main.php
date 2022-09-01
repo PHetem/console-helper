@@ -7,7 +7,6 @@ use Utils\ConsoleTools\{Callback, Console, Menu};
 
 main();
 
-// Boolean question
 function main() {
     wantsTheTutorial();
     yesOrNo();
