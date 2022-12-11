@@ -1,6 +1,6 @@
 <?php
 
-use Utils\ConsoleTools\{Callback, Console, Menu};
+use ConsoleTools\{Callback, Console, Menu};
 
 function wants() {
     Console::clear();

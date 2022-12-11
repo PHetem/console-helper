@@ -1,6 +1,6 @@
 <?php
 
-namespace Utils\ConsoleTools;
+namespace ConsoleTools;
 
 class Option {
     public $Identifier;

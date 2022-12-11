@@ -3,7 +3,7 @@
 include_once dirname(__FILE__, 2) . '/config/config.php';
 include_once dirname(__FILE__) . '/callbacks.php';
 
-use Utils\ConsoleTools\{Callback, Console, Menu};
+use ConsoleTools\{Callback, Console, Menu};
 
 main();
 

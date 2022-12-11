@@ -2,7 +2,7 @@
 
 include_once dirname(__FILE__, 2) . '/config/config.php';
 
-use Utils\ConsoleTools\Console;
+use ConsoleTools\Console;
 
 // Printing a simple string
 Console::printColor('Hi there', 'cyan');

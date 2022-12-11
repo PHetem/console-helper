@@ -1,8 +1,10 @@
 {
+    "name": "mpf/console",
+    "version":"1.0",
     "description": "Console helper for PHP",
     "autoload": {
         "psr-4": {
-                "Utils\\ConsoleTools\\": "core/"
+            "ConsoleTools\\": "core/"
         }
     }
 }
